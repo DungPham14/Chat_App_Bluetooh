@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Hung\AndroidStudioProjects\android-BluetoothChat-master\Application\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="C:\Users\Hung\AndroidStudioProjects\android-BluetoothChat-master\Application\build\intermediates\pre-dexed\debug\internal_impl-24.1.1_e8bdffadc20d1c05a96ff014c78e9da01a28f8df.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hung\AndroidStudioProjects\android-BluetoothChat-master\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d4d2c7e23917cbd008e9ddfea541b6abbfca6f3a">
+        <dex dex="C:\Users\Hung\AndroidStudioProjects\android-BluetoothChat-master\Application\build\intermediates\pre-dexed\debug\instant-run_eb76d213912a139cd4b27f73aca08de9d85f3c55.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hung\AndroidStudioProjects\android-BluetoothChat-master\Application\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="C:\Users\Hung\AndroidStudioProjects\android-BluetoothChat-master\Application\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.1.1_98f145255b05c33b5ecd7f4699f772e86de8c11f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hung\AndroidStudioProjects\android-BluetoothChat-master\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="4add8aa95c9f4e9a2ad64b7e2bf08e97e28955c1">
+        <dex dex="C:\Users\Hung\AndroidStudioProjects\android-BluetoothChat-master\Application\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-24.1.1_a22009a5ec8291ad20d86d0ccf04f90bb9eb93b4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hung\AndroidStudioProjects\android-BluetoothChat-master\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="23c3e8b7416d1da8de114ad6d8a7508e935c510b">
+        <dex dex="C:\Users\Hung\AndroidStudioProjects\android-BluetoothChat-master\Application\build\intermediates\pre-dexed\debug\instant-run-bootstrap_aa02ab20908ada5559049e976ae33815261ea3a1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hung\AndroidStudioProjects\android-BluetoothChat-master\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="C:\Users\Hung\AndroidStudioProjects\android-BluetoothChat-master\Application\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.1.1_464479bba631ead9039170301460d277fc28964a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hung\AndroidStudioProjects\android-BluetoothChat-master\Application\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="8a5380ddd58f4f8946ddade4c64dd77de4a836d5">
+        <dex dex="C:\Users\Hung\AndroidStudioProjects\android-BluetoothChat-master\Application\build\intermediates\pre-dexed\debug\com.android.support-gridlayout-v7-24.1.1_a9568829cee4428e5b7251bb715f98cef0fba50d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hung\AndroidStudioProjects\android-BluetoothChat-master\Application\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="C:\Users\Hung\AndroidStudioProjects\android-BluetoothChat-master\Application\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.1.1_3b39289deb6c3c7a404df071210592c85f57f2ed.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hung\AndroidStudioProjects\android-BluetoothChat-master\Application\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="C:\Users\Hung\AndroidStudioProjects\android-BluetoothChat-master\Application\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.1.1_e5d445dbe44d882c43bed00c8cf53b6d40ca6312.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hung\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\24.1.1\3af19f153122737b372622fa6c81dd11a1c6b999\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="C:\Users\Hung\AndroidStudioProjects\android-BluetoothChat-master\Application\build\intermediates\pre-dexed\debug\support-annotations-24.1.1_4fa1060f4c48be2ce6992ef58a1781702761962a.jar" />
+    </item>
+
+</items>
